@@ -20,3 +20,6 @@ the dashboard was built using the following tools and technologies:
  screenshot:
  show what the dashboard loosk like.-
  [Dashboard Preview](https://github.com/ashuchaudhari/Blinkittt/blob/main/image.png)
+
+ <img width="940" height="502" alt="image" src="https://github.com/user-attachments/assets/c52d9cc8-b946-47c9-9aa2-c748c791f2ab" />
+
