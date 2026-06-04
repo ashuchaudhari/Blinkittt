@@ -19,3 +19,4 @@ the dashboard was built using the following tools and technologies:
 
  screenshot:
  show what the dashboard loosk like.
+( https://github.com/ashuchaudhari/Blinkittt/blob/main/image.png)
