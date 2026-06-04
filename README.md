@@ -18,5 +18,5 @@ the dashboard was built using the following tools and technologies:
  sales trends, customer preference.
 
  screenshot:
- show what the dashboard loosk like.
-( https://github.com/ashuchaudhari/Blinkittt/blob/main/image.png)
+ show what the dashboard loosk like.- [Alt test](https://github.com/ashuchaudhari/Blinkittt/blob/main/image.png)
+ Example: [Dashboard Preview](https://github.com/ashuchaudhari/Blinkittt/blob/main/image.png)
